@@ -11,10 +11,11 @@
 
 ![Screenshot](readme_images/image.jpg)
 
- You can watch the E-learning video here:
-* REPLACE TEXT [WATCH NOW](https://cdnjs.com/libraries/jquery) 
-* <a href="readme_images/image.jpg" download>
-  <img src="readme_images/image.jpg" alt="W3Schools" width="804" height="200">
+ **Download the E-LEARNING PDF here:**
+
+  
+  <a href="readme_images/image.jpg" download>
+  <img src="readme_images/download.png" alt="W3Schools" width="204" height="80">
 </a>
 
 
