@@ -34,7 +34,7 @@
 ## 1) Enter the App by an Intro Page
 
 ![Screenshot](readme_images/video1.gif)
-> Once you've started the App, you see this homescreen which welcomes you. Click on the "Discover Now"-Button to enter the app.
+> Once you've started the App, you see this homescreen which welcomes you. Then you can click on the "Discover Now"-Button to enter the app.
 
 <br />
 
