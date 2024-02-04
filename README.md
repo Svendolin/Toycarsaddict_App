@@ -9,6 +9,8 @@
 
 **A little nerve-wracking Flutter project that I created for the ASP at SAE Zurich as part of my bachelor's degree. This is my first programming experience with Flutter and Dart. This is just a DEMO APP and hasnt been officially launched on the App-Store or Android-Store yet!**
 
+![Screenshot](readme_images/image.jpg)
+
  You can watch the E-learning video here:
 * REPLACE TEXT [WATCH NOW](https://cdnjs.com/libraries/jquery) 
 
