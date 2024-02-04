@@ -13,6 +13,9 @@
 
  You can watch the E-learning video here:
 * REPLACE TEXT [WATCH NOW](https://cdnjs.com/libraries/jquery) 
+* <a href="readme_images/image.jpg" download>
+  <img src="readme_images/image.jpg" alt="W3Schools" width="804" height="200">
+</a>
 
 
 
