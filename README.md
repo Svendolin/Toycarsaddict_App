@@ -14,7 +14,7 @@
  **Download the E-LEARNING PDF here:**
 
   
-  <a href="readme_images/image.jpg" download>
+  <a href="readme_images/Sven_Kamm_ELearning ASP_6FSC0XD102.pdf" download>
   <img src="readme_images/download.png" alt="W3Schools" width="204" height="80">
 </a>
 
@@ -27,9 +27,12 @@
 * I've decided to create a cross-platform app because I wanted to be able to test the app on both Android and iOS devices 
 * The app is written in Dart and uses the Flutter framework 
 * I've chosen Flutter over React Native because I wanted to learn something completely new and I already have a book on Flutter at home.
+* The app here currently only exists offline as a pure source code demo version and is not available in the App Store or Android Store.
 
 **What's the meaning behind the App?**
-* The app is structured in such a way that new model cars are regularly published in a featured section > The cars are part of our collection but can also be purchased in the shop > You put the cars you would like to have on a list > As soon as all the cars are added to your list, you can send us a message with your request
+* The app is structured in such a way that new model cars are regularly published in a featured section > The cars are part of our collection but can also be purchased in the shop > You put the cars you would like to have on a list > As soon as all the cars are added to your list, you can send us a message with your request.
+
+**What can you do on my app?**
 
 ## 1) Enter the App by an Intro Page
 
