@@ -3,6 +3,7 @@ import '../components/bottom_nav_bar.dart';
 import 'cart_page.dart';
 import 'shop_page.dart';
 
+// --- HAUPTSEITE / STARTSEITE ---
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 

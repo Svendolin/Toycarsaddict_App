@@ -3,6 +3,10 @@ import 'shoe.dart';
 
 class Cart extends ChangeNotifier {
   // --- LISTE VON AUTOS, die in das Highligh müssen ---
+  /* Shoeshop diente bereits als Testliste einer Testapp.
+  Wurde noch nicht unbenannt, da die import export Funktionen noch nicht implementiert sind.
+  Inhalte für die Featured app sind hier manuell anzupassen
+  */
   List<Shoe> shoeShop = [
     Shoe(
       name: 'Mercedes AMG ONE',

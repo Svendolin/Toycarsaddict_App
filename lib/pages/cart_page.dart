@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import '../models/cart.dart';
 import '../models/shoe.dart';
 
+// --- LISTENANSAMMLUNGSSEITE (Quasi wie Warenkorb) ---
 class CartPage extends StatelessWidget {
   const CartPage({super.key});
 

@@ -22,3 +22,5 @@ class MessageTile extends StatelessWidget {
     );
   }
 }
+
+// Note: Lassen wir im Moment statisch, da wir noch keine Datenbankanbindung haben.

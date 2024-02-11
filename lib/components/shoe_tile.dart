@@ -15,7 +15,7 @@ class ShoeTile extends StatelessWidget {
     required this.description,
   });
 
-  // --- AUTOKARTEN DESIGN ---
+  // --- AUTOKARTEN DESIGN (Für FEATURED SECTION) ---
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -28,7 +28,7 @@ class ShoeTile extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
-          // --- CAR PICTURE ---
+          // --- CAR PICTURE, Autobild zum einbetten ---
           ClipRRect(
             borderRadius: const BorderRadius.only(
               topLeft: Radius.circular(12),
@@ -78,7 +78,7 @@ class ShoeTile extends StatelessWidget {
                 ),
               ),
 
-              // --- SCHALTFLÄCHE ZUM HINZUFÜGEN AUF DIE LISTE ---
+              // --- SCHALTFLÄCHE ZUM HINZUFÜGEN AUF DIE LISTE (+ Symbol) ---
               GestureDetector(
                 onTap: onTap,
                 child: Container(

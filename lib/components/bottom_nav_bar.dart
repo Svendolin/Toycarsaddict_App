@@ -6,7 +6,7 @@ class MyBottomNavBar extends StatelessWidget {
   void Function(int)? onTabChange;
   MyBottomNavBar({super.key, required this.onTabChange});
 
-  @override
+  @override // Alle Designkomponenten werden hier zusammengefügt:
   Widget build(BuildContext context) {
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 20),

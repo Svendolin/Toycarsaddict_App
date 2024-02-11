@@ -17,7 +17,7 @@ class _ShopPageState extends State<ShopPage> {
   void addShoeToCart(Shoe shoe) {
     Provider.of<Cart>(context, listen: false).addItemToCart(shoe);
 
-    // SUCCESS!!! den Benutzer benachrichtigen, Auto erfolgreich hinzugefügt
+    // ---- SUCCESS!!! den Benutzer benachrichtigen, Auto erfolgreich hinzugefügt ----
     showDialog(
       context: context,
       builder: (context) => const AlertDialog(
@@ -36,6 +36,7 @@ class _ShopPageState extends State<ShopPage> {
     );
   }
 
+// --- DESIGN DER SUCHLEISTE ---
   @override
   Widget build(BuildContext context) {
     return Consumer<Cart>(

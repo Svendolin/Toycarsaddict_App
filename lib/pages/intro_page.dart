@@ -1,6 +1,7 @@
 import 'package:ecommerceapp/pages/home_page.dart';
 import 'package:flutter/material.dart';
 
+// --- EINFüHRUNGSEITE ---
 class IntroPage extends StatelessWidget {
   const IntroPage({super.key});
 

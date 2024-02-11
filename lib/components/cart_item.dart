@@ -3,6 +3,9 @@ import 'package:provider/provider.dart';
 import '../models/cart.dart';
 import '../models/shoe.dart';
 
+// --- Abschnitt des Warenkorbs (Listenprinzip. Nutzen wir hier aber als Liste) ---
+
+// --- Produktdefinition ---
 class CartItem extends StatefulWidget {
   Shoe shoe;
   CartItem({
